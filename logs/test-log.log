@@ -1,0 +1,54 @@
+2025-12-05 18:55:46 INFO  SwaggerEditorService:26 - Start making API put call
+2025-12-05 18:55:47 INFO  SwaggerEditorAPITest:49 - Starting validation of Response
+2025-12-05 18:55:47 INFO  SwaggerEditorAPITest:52 - Verified Response Status Code
+2025-12-05 18:55:47 INFO  SwaggerEditorAPITest:55 - Verified Response Content Type
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:69 - Verified Value Of Id
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:72 - Verified Name
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:75 - Verified Value Of category ID
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:78 - Verified category Name
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:81 - Verified photo Urls
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:84 - Verified tags ID
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:87 - Verified tags Name
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:90 - Verified status
+2025-12-05 18:55:48 INFO  SwaggerEditorService:31 - Adding new pet
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:118 - Starting validation of Response
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:121 - Verified Response Status Code
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:124 - Verified Response Content Type
+2025-12-05 18:55:48 INFO  SwaggerEditorService:54 - Deleting Pet by there ID's
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:231 - Starting validation of Response
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:234 - Verified Response Status Code
+2025-12-05 18:55:48 INFO  SwaggerEditorAPITest:237 - Verified Response Content Type
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:282 - First Name=Bhawana
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:283 - Last Name=Gurjar
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:284 - PhoenNumber=451.0
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:285 - Email=adsasd
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:282 - First Name=Shiv
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:283 - Last Name=Gurjar
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:284 - PhoenNumber=3232.0
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:285 - Email=2asda
+2025-12-05 18:55:49 INFO  SwaggerEditorService:45 - Finding Pet by there ID's
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:191 - Starting validation of Response
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:194 - Verified Response Status Code
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:197 - Verified Response Content Type
+2025-12-05 18:55:49 INFO  SwaggerEditorService:36 - Verifying grt response
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:138 - Starting validation of Response
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:141 - Verified Response Status Code
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:144 - Verified Response Content Type
+2025-12-05 18:55:49 INFO  SwaggerEditorService:41 - Finding Pet by there tags
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:172 - Starting validation of Response
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:175 - Verified Response Status Code
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:178 - Verified Response Content Type
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:267 - User Name=admin123
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:268 - Password=pass1
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:267 - User Name=admin321
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:268 - Password=pass2
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:267 - User Name=admin324
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:268 - Password=pass3
+2025-12-05 18:55:49 INFO  SwaggerEditorService:50 - Adding new pet
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:212 - Starting validation of Response
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:215 - Verified Response Status Code
+2025-12-05 18:55:49 INFO  SwaggerEditorAPITest:218 - Verified Response Content Type
+2025-12-05 18:55:49 INFO  SwaggerEditorService:58 - Finding Pet by there ID's
+2025-12-05 18:55:50 INFO  SwaggerEditorAPITest:251 - Starting validation of Response
+2025-12-05 18:55:50 INFO  SwaggerEditorAPITest:256 - Verified Response Status Code
+2025-12-05 18:55:50 INFO  SwaggerEditorAPITest:259 - Verified Response Content Type
